@@ -1,0 +1,32 @@
+.movie-card {
+  display: inline-block;
+  width: 350px;
+  cursor: pointer;
+}
+
+.movie-card-body {
+  width: 100%;
+  transform: scale(0.9);
+  transition: all ease 0.2s;
+  display: flex;
+  flex-direction: column;
+}
+
+.movie-card-body:hover {
+  transform: scale(1);
+}
+
+.movie-card-body img {
+  width: 100%;
+}
+
+.movie-card-body h5 {
+  margin: 0;
+}
+
+.movie-card-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.5em;
+  align-items: center;
+}

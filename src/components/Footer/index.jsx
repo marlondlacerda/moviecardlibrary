@@ -14,7 +14,9 @@ const Footer = () => (
       target="_blank"
       rel="noopener noreferrer"
     >
-      Marlon Lacerda
+      <span className="fa-blink">
+        Marlon Lacerda
+      </span>
     </a>
   </footer>
 );

@@ -6,7 +6,6 @@ import PropTypes from 'prop-types';
 import MovieCard from '../MovieCard';
 import './MovieList.css';
 
-const test = '2';
 const WIDTHLENGHT = 350;
 const SIXTY = 60;
 const TWOHUNDRED = 150;

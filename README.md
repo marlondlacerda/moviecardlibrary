@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <img src="./images/preview.png">
+  <img src="./img/preview.png">
 </div>
 
 ## Habilidades
@@ -145,6 +145,26 @@
   Todos os componentes que recebem props devem ter suas proptypes corretamente declaradas. O ESLint checa automaticamente declaração de proptypes, portanto seu Pull Request deverá passar pela verificação do linter para satisfazer esse requisito.
 
 </details>
+
+---
+# RECURSOS ADICIONAIS DESENVOLVIDOS POR MIM
+
+- Adicionei um novo Component `<FeaturedMovie />`.
+  - Esse componente fica responsável de pegar aleatoriamente um dos filmes da biblioteca como uma indicação do que assistir.
+
+- Separei em pastas cada Componente.
+  - Desse modo fica melhor a manutenção de cada Componente e seu devido CSS, importação e exportação.
+
+- Layout parecido com Netflix!
+  - Fiz o CSS com que parecesse um clone do próprio.
+  - Com Javascript e animações de CSS, fiz a  rolagem dos cartões pela lateral.
+  - Simulei um carregamento inicial toda vez que a página inicia.
+  - Fiz o layout separado para mobile.
+
+ - Deploy usando Heroku
+  - Assim como já peguei um pouco de prática usando vercel, continuei usando o Heroku para praticar mais.
+
+ - Implementei Docker para que o aplicativo virasse um container.
 
 ---
 

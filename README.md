@@ -50,7 +50,7 @@
 
 ---
 
- # Instruções para instalar e rodar os testes de cada requisito
+ ## Instruções para instalar e rodar os testes de cada requisito
 1. Clone o repositório
   * `git git@github.com:marlondlacerda/moviecardlibrary.git`
   * Entre na pasta do repositório que você acabou de clonar:
@@ -147,7 +147,7 @@
 </details>
 
 ---
-# RECURSOS ADICIONAIS DESENVOLVIDOS POR MIM
+## RECURSOS ADICIONAIS DESENVOLVIDOS POR MIM
 
 - Adicionei um novo Component `<FeaturedMovie />`.
   - Esse componente fica responsável de pegar aleatoriamente um dos filmes da biblioteca como uma indicação do que assistir.

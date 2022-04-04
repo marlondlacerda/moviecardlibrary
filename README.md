@@ -161,10 +161,11 @@
   - Simulei um carregamento inicial toda vez que a página inicia.
   - Fiz o layout separado para mobile.
 
- - Deploy usando Heroku
+- Implementei Docker para que o aplicativo virasse um container.
+
+- Deploy usando Heroku
   - Assim como já peguei um pouco de prática usando vercel, continuei usando o Heroku para praticar mais.
 
- - Implementei Docker para que o aplicativo virasse um container.
 
 ---
 

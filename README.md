@@ -51,27 +51,31 @@
 ---
 
  ## Instruções para instalar e rodar os testes de cada requisito
-1. Clone o repositório
-  * `git git@github.com:marlondlacerda/moviecardlibrary.git`
-  * Entre na pasta do repositório que você acabou de clonar:
-    * `cd moviecardlibrary`
 
-2. Instale as dependências e inicialize o projeto
-  * Instale as dependências:
-    * `npm install`
+```bash
+# Clone o repositório
+  git clone git@github.com:marlondlacerda/moviecardlibrary.git
 
-3. Use o comando `npm start` para iniciar o aplicativo no navegador.
+# Entre na pasta do repositório que você acabou de clonar:
+  cd moviecardlibrary
 
-3. Entre no Vs Code para verificar os arquivos
-  * Atalho no terminal: `code . `
-  * A pasta test contém os testes que verifica se as funções estão atendendo o que foi pedido
+# Instale as dependências e inicialize o projeto
+  npm install
 
-4. Leia os Requisitos do Projeto logo abaixo explicando o que cada requisito propõem
+# Use o comando "npm start" para iniciar o aplicativo no navegador.
 
-5. Para rodar os tests
-  * Atalho no terminal: `npm run test`
+# Entre no Vs Code para verificar os arquivos usando o atalho no terminal:
+  code .
 
-***
+#  A pasta tests contém os testes que verifica se as funções estão atendendo o que foi pedido
+
+# Leia os Requisitos do Projeto logo abaixo explicando o que cada requisito propõem
+
+# Para rodar os tests use o atalho no terminal:
+  npm run test
+```
+
+---
 
 <details>
   <summary>Requisitos do projeto</summary>
